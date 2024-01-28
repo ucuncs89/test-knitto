@@ -1,10 +1,4 @@
-Certainly! Below is a sample README.md file with instructions for installation, building, and running the project using npm scripts:
-
-markdown
-
-# Project Name
-
-Short description or introduction to your project.
+# Test-Knitto-Program-(FizzBuzz&Palindrome)
 
 ## Installation
 
@@ -12,33 +6,38 @@ To install the necessary dependencies, run the following command:
 
 ```bash
 npm install
+```
 
-Usage
-Building
+## Usage
+
+### Building
 
 To build the project, use the following command:
 
-bash
+```bash
 
 npm run build
+```
 
-This command will compile the TypeScript code into JavaScript and output the files into the dist directory.
-Running
+### Running
 
 To start the project, run the following command:
 
-bash
+```bash
 
 npm start
+```
 
-This will run the project using the compiled JavaScript files in the dist directory.
-Development Mode
+### Development Mode
 
 If you want to run the project in development mode (automatically rebuild when files change), you can use the following command:
 
-bash
+```bash
 
 npm run start:dev
-
-This command will build the project and then start it, watching for changes to TypeScript files and automatically rebuilding when changes are detected.
 ```
+
+### SQL Query (Jawaban soal no 2)
+
+open /query-jawaban-no-2/query.sql
+then copy and running this sql at sql your sql-editor
